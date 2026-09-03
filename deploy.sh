@@ -3,11 +3,11 @@ set -e
 
 # CONFIG
 SITE_DIR="_site"
-TARGET_DIR="../../../Shared/website/dgm-fall-2025"
+TARGET_DIR="../../../Shared/website/dgm-fall-2026"
 
 # Step 1: Build the site with correct baseurl
 echo "🔧 Building site..."
-bundle exec jekyll build --baseurl /dgm-fall-2025
+bundle exec jekyll build --baseurl /dgm-fall-2026
 
 # Step 2: Copy to main repo
 echo "🚚 Copying to $TARGET_DIR..."
@@ -18,8 +18,8 @@ cp -r "$SITE_DIR"/* "$TARGET_DIR"
 echo "📦 Committing and pushing..."
 cd "$TARGET_DIR"
 cd ..
-git add dgm-fall-2025
+git add dgm-fall-2026
 git commit -m "🚀 Deploy updated DGM site ($(date +'%Y-%m-%d %H:%M'))" || echo "No changes to commit"
 git push
 
-echo "✅ Done: https://adaptinfer.org/dgm-fall-2025"
+echo "✅ Done: https://adaptinfer.org/dgm-fall-2026"

@@ -4,14 +4,14 @@
 author: Ben Lengerich
 name: STAT 453
 title: Introduction to Deep Learning and Generative Models
-email: TBD@wisc.edu
+email: lengerich@wisc.edu
 description: >
-  STAT 453 - University of Wisconsin-Madison - Fall 2025
+  STAT 453 - University of Wisconsin-Madison - Fall 2026
 footer_text: >
 
 url: "https://adaptinfer.org" # the base hostname & protocol for your site
-baseurl: "/dgm-fall-2025" # the subpath of your site, e.g. /blog/
-repository: AdaptInfer/dgm-spring-2025
+baseurl: "/dgm-fall-2026" # the subpath of your site, e.g. /blog/
+repository: AdaptInfer/dgm-fall-2026
 
 icon: uw-crest-color-web-digital.svg
 

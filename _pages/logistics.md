@@ -11,17 +11,17 @@ title: Logistics
 
 ### Course Information
 
-- **Meeting Times:** Monday/Wednesday 8:00-9:15 AM
-- **Location:** Morgridge 1524
-- **Instructor:** Prof. Ben Lengerich, lengerich@wisc.edu
-- **TA:** Baiheng Chen, bchen342@wisc.edu
+- **Meeting Times:** Tuesday/Thursday 9:30-10:45 AM
+- **Location:** Morgridge B2590
+- **Instructor:** Prof. Ben Lengerich, lengerich@wisc.edu, office hours Tuesdays 11:00am-12:00pm, Morgridge 5530
+- **TA:** Baiheng Chen, bchen342@wisc.edu, office hours TBD
 
 ---
 
 ### Course Materials
 
-- **Website:** [Course Website](https://adaptinfer.org/dgm-fall-2025)
-- **Submission Platform:** [Canvas](https://canvas.wisc.edu/courses/479352)
+- **Website:** [Course Website](https://adaptinfer.org/dgm-fall-2026)
+- **Submission Platform:** [Canvas](https://canvas.wisc.edu/courses/527650)
 
 ---
 
@@ -49,15 +49,16 @@ There will be regular homework assignments to reinforce core concepts and comput
 #### Policies:
 
 - **Submission:** Assignments must be submitted via Canvas by 11:59 PM on Fridays unless otherwise noted.
-- **Collaboration:** Students may discuss problems, but all submitted work must be individual. Proper citations are required. AI tools are allowed, but the answers must reflect your understanding.
+- **Collaboration:** Students may discuss problems, but all submitted work must be individual. Proper citations are required. AI use is allowed for assignments.
 - **Late Policy:** Late submissions incur a penalty of 10% per day for up to three days. Submissions more than three days late will not be accepted unless prior arrangements are made.
 
 ---
 
 ### Exams
 
-- **Midterm Exam:** An in-class exam will take place on October 22.
-- **Final Exam.** The final exam will take place December 17.
+- **Midterm Exam:** An in-class exam will take place Thursday, October 15.
+- **Final Exam:** During the exam period, December 11-17 (exact date/time to be confirmed once the registrar publishes the block schedule).
+- **Exam policies:** AI use and electronic devices are NOT allowed. Printed notes are allowed.
 
 ---
 
@@ -65,16 +66,16 @@ There will be regular homework assignments to reinforce core concepts and comput
 
 The final project will be completed in groups of up to four students. It will include:
 
-- **Proposal (5%)**: Due October 17, 2025.
-- **Midway Report (5%)**: Due November 7, 2025.
-- **Presentation (5%)**: During the final week of class.
-- **Final Report (15%)**: Due December 12, 2025.
+- **Proposal (5%)**: Due Friday, October 9, 2026.
+- **Midway Report (5%)**: Due Friday, November 6, 2026.
+- **Presentation (5%)**: During the final weeks of class (Dec 1 and Dec 3).
+- **Final Report (15%)**: Due Friday, December 11, 2026.
 
 ---
 
 ### Extra Credit
 
-Students can volunteer to write lecture notes for a class session. Notes must be clear, comprehensive, and well-organized. Approved notes will earn up to 2% extra credit. See [here](https://github.com/AdaptInfer/dgm-fall-2025/blob/master/_posts/README.md) for details on how to submit.
+Students can volunteer to write lecture notes for a class session. Notes must be clear, comprehensive, and well-organized. Approved notes will earn up to 2% extra credit. See [here](https://github.com/AdaptInfer/dgm-fall-2026/blob/master/_posts/README.md) for details on how to submit.
 
 An additional 1% may be earned by submitting improvements to previously-posted lecture notes.
 

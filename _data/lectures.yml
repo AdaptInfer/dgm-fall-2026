@@ -3,26 +3,27 @@
 - date: 9/3
   lecturer: Prof. Lengerich
   title: >
-    <strong>Course Introduction, Introduction to DL</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_01_Intro.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-01"
+    <strong>Course Introduction</strong>
+  slides: # TODO: re-upload Lecture_01_Intro.pdf once remade from PPTX
+  notes:
   readings:
   logistics:
 
 - date: 9/8
   lecturer: Prof. Lengerich
   title: >
-    <strong>A Brief History of DL</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_02_HistoryofDL.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-02"
-  logistics: HW1 Out
+    <strong>A Brief History of Deep Learning</strong>
+  slides: # TODO: re-upload Lecture_02_HistoryofDL.pdf once remade from PPTX
+  notes:
+  readings:
+  logistics:
 
 - date: 9/10
   lecturer: Prof. Lengerich
   title: >
-    <strong>Statistics / linear algebra / calculus review</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_03_StatsReview.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-03"
+    <strong>Statistics, Linear Algebra, and Calculus Review</strong>
+  slides: # TODO: re-upload Lecture_03_StatsReview.pdf once remade from PPTX
+  notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_algebra.html">Deep learning book</a>, Ch. 2
 
@@ -30,8 +31,8 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Single-layer networks</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_04_SingleLayer.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-04"
+  slides: # TODO: re-upload Lecture_04_SingleLayer.pdf once remade from PPTX
+  notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/ml.html">Deep learning book</a>, Ch. 5
   logistics:
@@ -40,147 +41,135 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Parameter Optimization and Gradient Descent</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_05_gradient_descent.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-05"
+  slides: # TODO: re-upload Lecture_05_GradientDescent.pdf once remade from PPTX
+  notes:
   readings:
+  logistics: HW1 due Fri 9/18
 
 - date: 9/22
   lecturer: Prof. Lengerich
   title: >
-    <strong>Automatic differentiation with PyTorch</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_06_autodiff.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-06"
+    <strong>Automatic differentiation with PyTorch; Project Discussion</strong>
+  slides: # TODO: re-upload Lecture_06_Autodiff.pdf once remade from PPTX
+  notes:
   readings:
-
-- date: 9/24
-  lecturer: Prof. Lengerich
-  title: <strong>Cluster and cloud computing resources</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_07_cloud.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-07"
-  readings:
-  logistics: HW2 Out
+  logistics:
 
 - title: "Module 2: Neural Networks"
 
-- date: 9/29
-  lecturer: Prof. Lengerich
-  title: <strong>Multinomial logistic regression</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_08_LogisticRegression.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-08"
-
-- date: 10/1
+- date: 9/24
   lecturer: Prof. Lengerich
   title: <strong>Multi-layer perceptrons and backpropagation</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_09_Multilayer.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-09"
+  slides: # TODO: re-upload Lecture_07_Multilayer.pdf once remade from PPTX
+  notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/mlp.html">Deep learning book</a>, Ch. 6
 
-- date: 10/6
+- date: 9/29
   lecturer: Prof. Lengerich
-  title: <strong>Regularization</strong>
-  logistics: HW3 Out
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_10_regularization.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-10"
-  readings:
-    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/regularization.html">Deep learning book</a>, Ch. 7
-
-- date: 10/8
-  lecturer: Prof. Lengerich
-  title: <strong>Normalization / Initialization</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_11_normalization.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-11"
-  readings:
-    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/guidelines.html">Deep learning book</a>, Ch. 11
-
-- date: 10/13
-  lecturer: Prof. Lengerich
-  title: <strong>Optimization, Learning Rates</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_12_optimization.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-12"
-  readings:
-    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8
-
-- date: 10/15
-  lecturer: Prof. Lengerich
-  title: <strong>CNNs</strong>
-  logistics: Project Proposal Due
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_13_cnns.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-13"
+  title: <strong>Structure and weight sharing; CNNs</strong>
+  slides: # TODO: re-upload Lecture_08_CNNs.pdf once remade from PPTX
+  notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/convnets.html">Deep learning book</a>, Ch. 9
 
-- date: 10/20
+- date: 10/1
+  lecturer: Prof. Lengerich
+  title: <strong>Regularization</strong>
+  logistics: HW2 due Fri 10/2
+  slides: # TODO: re-upload Lecture_09_Regularization.pdf once remade from PPTX
+  notes:
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/regularization.html">Deep learning book</a>, Ch. 7
+
+- date: 10/6
+  lecturer: Prof. Lengerich
+  title: <strong>Normalization and Initialization</strong>
+  slides: # TODO: re-upload Lecture_10_Normalization.pdf once remade from PPTX
+  notes:
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/guidelines.html">Deep learning book</a>, Ch. 11
+
+- date: 10/8
+  lecturer: Prof. Lengerich
+  title: <strong>Optimization and learning rates</strong>
+  logistics: Project proposal due Fri 10/9
+  slides: # TODO: re-upload Lecture_11_Optimization.pdf once remade from PPTX
+  notes:
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8
+
+- date: 10/13
   lecturer: Prof. Lengerich
   title: <strong>Review</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_14_review.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-14"
+  slides: # TODO: re-upload Lecture_12_Review.pdf once remade from PPTX
+  notes:
 
-- date: 10/22
-  title: <strong>Midterm Exam</strong>
+- date: 10/15
+  title: <strong>Midterm Exam (in-class)</strong>
 
 - title: "Module 3: Intro to Generative Models"
 
-- date: 10/27
+- date: 10/20
   lecturer: Prof. Lengerich
-  title: <strong>A Linear Intro to Generative Models</strong>
+  title: <strong>A linear introduction to generative models</strong>
   readings:
     - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
     - J. Xue, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on On Discriminative vs. Generative Classifiers</a>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_15_generative.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-15"
+  slides: # TODO: re-upload Lecture_13_Generative.pdf once remade from PPTX
+  notes:
+  logistics: HW3 due Fri 10/23
 
-- date: 10/29
+- date: 10/22
   lecturer: Prof. Lengerich
   title: <strong>Factor Analysis, Autoencoders, VAEs</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_16_autoencoders.pdf"
+  slides: # TODO: re-upload Lecture_14_Autoencoders.pdf once remade from PPTX
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_factors.html">Deep learning book</a>, Ch. 13
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/autoencoders.html">Deep learning book</a>, Ch. 14
     - Kingma and Welling, <a href="https://arxiv.org/abs/1312.6114">Variational Autoencoders</a>
-  notes: "/dgm-fall-2025/notes/lecture-16"
+  notes:
 
-- date: 11/3
+- date: 10/27
   lecturer: Prof. Lengerich
   title: <strong>Generative Adversarial Networks</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_17_gan.pdf"
+  slides: # TODO: re-upload Lecture_15_GAN.pdf once remade from PPTX
   readings:
     - Goodfellow et al., <a href="http://www.deeplearningbook.org/">Deep learning book</a>, Ch. 20.9-10
     - Goodfellow et al., <a href="http://papers.nips.cc/paper/5423-generative-adversarial-nets">Generative Adversarial Nets</a>
     - Arora., <a href="http://www.offconvex.org/2017/03/15/GANs/">Generative Adversarial Networks (GANs), Some Open Questions</a>
-  notes: "/dgm-fall-2025/notes/lecture-17"
+  notes:
 
-- date: 11/5
+- date: 10/29
   lecturer: Prof. Lengerich
   title: <strong>Diffusion Models</strong>
-  logistics: Project Midway Report Due
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_18_diffusion.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-18"
+  slides: # TODO: re-upload Lecture_16_Diffusion.pdf once remade from PPTX
+  notes:
 
-- title: "Module 4: Large Language Models"
+- title: "Module 4: Sequence Models and Large Language Models"
 
-- date: 11/10
+- date: 11/3
   lecturer: Prof. Lengerich
   title: <strong>Sequence Learning with RNNs</strong>
   readings:
     - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/rnn.html">Deep learning book</a>, Ch. 10
-  logistics: HW4 Out
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_19_rnns.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-19"
+  slides: # TODO: re-upload Lecture_17_RNNs.pdf once remade from PPTX
+  notes:
 
-- date: 11/12
+- date: 11/5
   lecturer: Prof. Lengerich
-  title: <Strong>Attention, Transformers</strong>
+  title: <strong>Attention, Transformers</strong>
   readings:
     - Vasvani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
     - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_20_attention.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-20"
+  slides: # TODO: re-upload Lecture_18_Attention.pdf once remade from PPTX
+  notes:
+  logistics: Project midway report due Fri 11/6
 
-- date: 11/17
+- date: 11/10
   lecturer: Prof. Lengerich
   title: <strong>GPT Architectures</strong>
   readings:
@@ -189,55 +178,65 @@
     - Brown et al., <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> (the GPT-3 paper)
     - Raschka, <a href="https://www.youtube.com/watch?v=YSAkgEarBGE&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm">Build an LLM from Scratch 4</a> (video)
     - Karpathy, <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Let's Build GPT from Scratch </a>(video)
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_21_gpt.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-21"
+  slides: # TODO: re-upload Lecture_19_GPT.pdf once remade from PPTX
+  notes:
 
-- date: 11/19
+- date: 11/12
   lecturer: Prof. Lengerich
   title: <strong>Unsupervised Training of LLMs</strong>
   readings:
     - Bi. et al, <a href="https://arxiv.org/abs/2401.02954">DeepSeek LLM Scaling Open-Source Language Models with Longtermism</a>
     - Liu et al., <a href="https://arxiv.org/abs/2405.04434">DeepSeekV2 A Strong, Economical, and Efficient Mixture-of-Experts Language Model</a>
     - Liu et al., <a href="https://arxiv.org/abs/2412.19437">DeepSeekV3 Technical Report</a>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_22_pretraining.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-22"
+  logistics: HW4 due Fri 11/13
+  slides: # TODO: re-upload Lecture_20_Pretraining.pdf once remade from PPTX
+  notes:
 
-- date: 11/24
+- date: 11/17
   lecturer: Prof. Lengerich
-  title: <strong>Supervised Fine-tuning of LLMs</strong>
+  title: "<strong>Aligning LLMs: SFT, RLHF, and DPO</strong>"
   readings:
     - Raffel et al., <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
     - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
-  logistics: HW5 Out
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_23_posttraining.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-23"
+    - Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>
+  slides: # TODO: re-upload Lecture_21_Posttraining.pdf once remade from PPTX
+  notes:
 
-- date: 11/26
+- date: 11/19
   lecturer: Prof. Lengerich
-  title: <strong>Prompts and In-context learning</strong>
+  title: <strong>Reasoning Models and RL from Verifiable Rewards</strong>
   readings:
+    - OpenAI, <a href="https://openai.com/index/learning-to-reason-with-llms/">Learning to Reason with LLMs</a> (the o1 report)
+    - Guo et al., <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>
+  slides: # TODO: re-upload Lecture_22_ReasoningModels.pdf once remade from PPTX
+  notes:
+
+- date: 11/24
+  lecturer: Prof. Lengerich
+  title: "<strong>Parameter-Efficient Fine-tuning: LoRA, Adapters, and Prompting</strong>"
+  readings:
+    - Hu et al., <a href="https://arxiv.org/abs/2106.09685">LoRA: Low-Rank Adaptation of Large Language Models</a>
     - Li & Liang, <a href="https://arxiv.org/abs/2101.00190">Prefix-tuning - Optimizing continuous prompts for generation</a>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_24_prompts.pdf"
-  notes: "/dgm-fall-2025/notes/lecture-24"
+  slides: # TODO: re-upload Lecture_23_PEFT.pdf once remade from PPTX
+  notes:
+  logistics: HW5 due Fri 11/27
+
+- title: "Module 5: Student Presentations & Wrap-up"
 
 - date: 12/1
-  lecturer: Prof. Lengerich
-  title: <strong>Alignment, explainability, and open directions in LLM research</strong>
-  notes: "/dgm-fall-2025/notes/lecture-25"
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_25_alignment.pdf"
+  title: <strong>Student Project Presentations</strong>
 
 - date: 12/3
-  lecturer: Prof. Lengerich
-  title: <strong>Review</strong>
-  slides: "/dgm-fall-2025/assets/lectures/Lecture_26_review.pdf"
-
-- title: "Module 5: Student Presentations"
+  title: <strong>Student Project Presentations</strong>
 
 - date: 12/8
-  title: <strong>Project Presentations</strong>
+  lecturer: Prof. Lengerich
+  title: <strong>Review & Open Directions</strong>
+  readings:
+    - Yao et al., <a href="https://arxiv.org/abs/2210.03629">ReAct: Synergizing Reasoning and Acting in Language Models</a>
+  slides: # TODO: re-upload Lecture_24_Review.pdf once remade from PPTX
+  notes:
+  logistics: Project final report due Fri 12/11
 
-- date: 12/10
-  title: <strong>Project Presentations</strong>
-
-- date: 12/17
-  title: <strong>Final Exam</strong>
+- date: 12/11
+  title: <strong>Final Exam</strong> (exam period Dec 11-17; exact date/time TBD pending registrar block schedule)

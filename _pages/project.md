@@ -26,7 +26,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 
 ### **Proposal**
 
-**Due:** Friday, October 17, 2025, at 11:59 PM via Canvas.
+**Due:** Friday, October 9, 2026, at 11:59 PM via Canvas.
 
 - **Content**:
   - Project title and team member list.
@@ -44,7 +44,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 
 ### **Midway Report**
 
-**Due:** Friday, November 7, 2025, at 11:59 PM via Canvas.
+**Due:** Friday, November 6, 2026, at 11:59 PM via Canvas.
 
 - **Purpose**:
   This report ensures you’ve made **real progress** on your project. Basically, your job in the midway report is to convince us that you will finish your project by the final due date. It's ok if your plans have changed from the proposal, but you should know that by now. It's also okay if your plans have failed or run into challenges, but you should have some indication of that by now.
@@ -93,7 +93,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 
 ### **In-Class Presentation**
 
-**Date:** Monday, December 8 and Wednesday, December 10.
+**Date:** Tuesday, December 1 and Thursday, December 3.
 
 - **Format**: Each team will deliver a **4-minute presentation** in class, summarizing their project. Presentations will include a brief introduction, methods overview, key findings, and future directions. This is the only portion of the project that will have individual (per-person) grades, so make sure every group member contributes to the presentation.
 
@@ -110,7 +110,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 
 ### **Final Report**
 
-**Due:** Friday, December 12, 2025, at 11:59 PM via Canvas.
+**Due:** Friday, December 11, 2026, at 11:59 PM via Canvas.
 
 - **Content**:
   - ICML-style paper (8 pages).

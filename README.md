@@ -1,5 +1,5 @@
 # STAT 453 -- Intro to Deep Learning and Generative Models
 
-## Fall 2025
+## Fall 2026
 
 ---

@@ -1,8 +1,8 @@
 ## Lecture Notes Scribe Guidelines
 
-Scribing lectures is an opportunity for [bonus points](https://adaptinfer.or/dgm-fall-2025/logistics/#grading) for STAT 453.
-In Fall 2025, students taking the class are asked to write up their notes in the form of blog posts using the [Distill.pub](https://distill.pub/) format (v2).
-We provide a template ([source](https://github.com/adaptinfer/dgm-fall-2025/blob/master/_posts/2019-01-09-lecture-notes-template.md), [rendered](https://adaptinfer.org/dgm-fall-2025/notes/lecture-notes-template/)) for the notes.
+Scribing lectures is an opportunity for [bonus points](https://adaptinfer.or/dgm-fall-2026/logistics/#grading) for STAT 453.
+In Fall 2026, students taking the class are asked to write up their notes in the form of blog posts using the [Distill.pub](https://distill.pub/) format (v2).
+We provide a template ([source](https://github.com/adaptinfer/dgm-fall-2026/blob/master/_posts/2019-01-09-lecture-notes-template.md), [rendered](https://adaptinfer.org/dgm-fall-2026/notes/lecture-notes-template/)) for the notes.
 The template showcases the main building blocks that students may use when writing up their notes (e.g., equations, different formats of images, etc.).
 
 ## Preparation
@@ -13,7 +13,7 @@ To prepare the scribe notes, you'll need a few steps.
 
 - [Fork](https://help.github.com/articles/fork-a-repo/) the course repository.
 - In the settings of your fork, set GitHub Pages source to the `master` branch.
-- Make sure GitHub Pages correctly renders the webpage at `<your-github-username>.github.io/dgm-fall-2025/`.
+- Make sure GitHub Pages correctly renders the webpage at `<your-github-username>.github.io/dgm-fall-2026/`.
 
 If you are not familiar with GitHub, take a look the [intro tutorial](https://guides.github.com/activities/hello-world/) and the [GitHub Pages tutorial](https://guides.github.com/features/pages/).
 
@@ -23,8 +23,8 @@ For a more convenient workflow, while writing your notes, you can render them lo
 Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (_hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)_), do the following steps:
 
 ```bash
-$ git clone git@github.com:<your-github-username>/dgm-fall-2025.git
-$ cd dgm-fall-2025
+$ git clone git@github.com:<your-github-username>/dgm-fall-2026.git
+$ cd dgm-fall-2026
 $ bundle install
 $ bundle exec jekyll serve
 ```
@@ -33,12 +33,12 @@ After that, you will be able to see a rendered version of the course webpage (wi
 
 ### Write up lecture notes
 
-- Using the template, write up and add your notes to `_posts/yyyy-mm-dd-lecture-xx.md` and bibliography to `assets/bibliography/yyyy-mm-dd-lecture-xx.bib` (in the BibTeX format; here is [an example](https://github.com/adaptinfer/dgm-fall-2025/blob/master/assets/bibliography/2019-01-09-lecture-notes-template.bib)) in your fork of the repository.
+- Using the template, write up and add your notes to `_posts/yyyy-mm-dd-lecture-xx.md` and bibliography to `assets/bibliography/yyyy-mm-dd-lecture-xx.bib` (in the BibTeX format; here is [an example](https://github.com/adaptinfer/dgm-fall-2026/blob/master/assets/bibliography/2019-01-09-lecture-notes-template.bib)) in your fork of the repository.
 - When writing notes, you can use a combination of Markdown and HTML (the latter for more fine-grained rendering, if necessary).
   If you are not familiar with markdown, please spend 5 min looking at this [tutorial](https://commonmark.org/help/tutorial/index.html).
 - Add the images used in your post to `assets/img/notes/lecture-xx/`.
   Then, you can link the images as `<img src="{{ '/assets/img/notes/lecture-xx/img-name.png' | relative_url }}" />` in the writeup.
-  Please follow the [template](https://adaptinfer.org/dgm-fall-2025/notes/lecture-notes-template/#figures) to make your figures correctly aligned and captioned.
+  Please follow the [template](https://adaptinfer.org/dgm-fall-2026/notes/lecture-notes-template/#figures) to make your figures correctly aligned and captioned.
 - Make sure the title of the notes is formatted as `Lecture xx: <lecture title>`.
 - Make sure the Lecturer and the Authors information is correct.
 
@@ -56,7 +56,7 @@ To submit the notes for review, please do the following:
 
 ## FAQ
 
-1. **Q:** When I go to `<your-github-username>.github.io/pgm-spring-2025/`, I get 404 error. What should I do?
+1. **Q:** When I go to `<your-github-username>.github.io/dgm-fall-2026/`, I get 404 error. What should I do?
 
    **A:** Please make sure you followed the preliminary steps and GitHub Pages source points to the `master` branch.
    Note that it takes a few minutes for the website to start rendering.
