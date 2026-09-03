@@ -16,6 +16,7 @@
   slides: # TODO: re-upload Lecture_02_HistoryofDL.pdf once remade from PPTX
   notes:
   readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/intro.html">Deep learning book</a>, Ch. 1
   logistics:
 
 - date: 9/10
@@ -36,6 +37,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/ml.html">Deep learning book</a>, Ch. 5
+    - Rosenblatt, <a href="https://psycnet.apa.org/record/1959-09865-001">The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain</a>
   logistics:
 
 - date: 9/17
@@ -55,6 +57,7 @@
   slides: # TODO: re-upload Lecture_06_Autodiff.pdf once remade from PPTX
   notes:
   readings:
+    - Baydin et al., <a href="https://arxiv.org/abs/1502.05767">Automatic Differentiation in Machine Learning: a Survey</a>
   logistics:
 
 - title: "Module 2: Neural Networks"
@@ -66,6 +69,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/mlp.html">Deep learning book</a>, Ch. 6
+    - Rumelhart, Hinton, Williams, <a href="https://www.nature.com/articles/323533a0">Learning representations by back-propagating errors</a>
 
 - date: 9/29
   lecturer: Prof. Lengerich
@@ -74,6 +78,8 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/convnets.html">Deep learning book</a>, Ch. 9
+    - LeCun et al., <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">Gradient-Based Learning Applied to Document Recognition</a> (LeNet)
+    - Krizhevsky, Sutskever, Hinton, <a href="https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf">ImageNet Classification with Deep Convolutional Neural Networks</a> (AlexNet)
 
 - date: 10/1
   lecturer: Prof. Lengerich
@@ -83,6 +89,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/regularization.html">Deep learning book</a>, Ch. 7
+    - Srivastava et al., <a href="https://jmlr.org/papers/v15/srivastava14a.html">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a>
 
 - date: 10/6
   lecturer: Prof. Lengerich
@@ -91,6 +98,8 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8.4, 8.7
+    - Ioffe and Szegedy, <a href="https://arxiv.org/abs/1502.03167">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>
+    - Glorot and Bengio, <a href="https://proceedings.mlr.press/v9/glorot10a.html">Understanding the difficulty of training deep feedforward neural networks</a>
 
 - date: 10/8
   lecturer: Prof. Lengerich
@@ -100,6 +109,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8
+    - Kingma and Ba, <a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a>
 
 - date: 10/13
   lecturer: Prof. Lengerich
@@ -146,6 +156,7 @@
   lecturer: Prof. Lengerich
   title: <strong>Diffusion Models</strong>
   readings:
+    - 'Sohl-Dickstein et al., <a href="https://arxiv.org/abs/1503.03585">Deep Unsupervised Learning using Nonequilibrium Thermodynamics</a>'
     - 'Ho et al., <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Models</a>'
   slides: # TODO: re-upload Lecture_16_Diffusion.pdf once remade from PPTX
   notes:
@@ -158,6 +169,7 @@
   readings:
     - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/rnn.html">Deep learning book</a>, Ch. 10
+    - Hochreiter and Schmidhuber, <a href="https://www.bioinf.jku.at/publications/older/2604.pdf">Long Short-Term Memory</a>
   slides: # TODO: re-upload Lecture_17_RNNs.pdf once remade from PPTX
   notes:
 
@@ -165,6 +177,7 @@
   lecturer: Prof. Lengerich
   title: <strong>Attention, Transformers</strong>
   readings:
+    - Bahdanau, Cho, Bengio, <a href="https://arxiv.org/abs/1409.0473">Neural Machine Translation by Jointly Learning to Align and Translate</a>
     - Vasvani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
     - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
@@ -201,6 +214,7 @@
   title: "<strong>Aligning LLMs: SFT, RLHF, and DPO</strong>"
   readings:
     - 'Wei et al., <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a> (the FLAN paper)'
+    - 'Christiano et al., <a href="https://arxiv.org/abs/1706.03741">Deep Reinforcement Learning from Human Preferences</a> (the original RLHF paper)'
     - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
     - 'Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>'
   slides: # TODO: re-upload Lecture_21_Posttraining.pdf once remade from PPTX
