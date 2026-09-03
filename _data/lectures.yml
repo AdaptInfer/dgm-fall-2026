@@ -26,6 +26,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_algebra.html">Deep learning book</a>, Ch. 2
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/prob.html">Deep learning book</a>, Ch. 3
 
 - date: 9/15
   lecturer: Prof. Lengerich
@@ -44,6 +45,7 @@
   slides: # TODO: re-upload Lecture_05_GradientDescent.pdf once remade from PPTX
   notes:
   readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/numerical.html">Deep learning book</a>, Ch. 4
   logistics: HW1 due Fri 9/18
 
 - date: 9/22
@@ -88,7 +90,7 @@
   slides: # TODO: re-upload Lecture_10_Normalization.pdf once remade from PPTX
   notes:
   readings:
-    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/guidelines.html">Deep learning book</a>, Ch. 11
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8.4, 8.7
 
 - date: 10/8
   lecturer: Prof. Lengerich
@@ -114,8 +116,8 @@
   lecturer: Prof. Lengerich
   title: <strong>A linear introduction to generative models</strong>
   readings:
-    - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
-    - J. Xue, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on On Discriminative vs. Generative Classifiers</a>
+    - A. Ng, <a href="/dgm-fall-2026/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
+    - J. Xue, <a href="/dgm-fall-2026/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on On Discriminative vs. Generative Classifiers</a>
   slides: # TODO: re-upload Lecture_13_Generative.pdf once remade from PPTX
   notes:
   logistics: HW3 due Fri 10/23
@@ -143,6 +145,8 @@
 - date: 10/29
   lecturer: Prof. Lengerich
   title: <strong>Diffusion Models</strong>
+  readings:
+    - 'Ho et al., <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Models</a>'
   slides: # TODO: re-upload Lecture_16_Diffusion.pdf once remade from PPTX
   notes:
 
@@ -196,7 +200,7 @@
   lecturer: Prof. Lengerich
   title: "<strong>Aligning LLMs: SFT, RLHF, and DPO</strong>"
   readings:
-    - Raffel et al., <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
+    - 'Wei et al., <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a> (the FLAN paper)'
     - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
     - 'Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>'
   slides: # TODO: re-upload Lecture_21_Posttraining.pdf once remade from PPTX
@@ -216,6 +220,7 @@
   title: "<strong>Parameter-Efficient Fine-tuning: LoRA, Adapters, and Prompting</strong>"
   readings:
     - 'Hu et al., <a href="https://arxiv.org/abs/2106.09685">LoRA: Low-Rank Adaptation of Large Language Models</a>'
+    - 'Houlsby et al., <a href="https://arxiv.org/abs/1902.00751">Parameter-Efficient Transfer Learning for NLP</a>'
     - Li & Liang, <a href="https://arxiv.org/abs/2101.00190">Prefix-tuning - Optimizing continuous prompts for generation</a>
   slides: # TODO: re-upload Lecture_23_PEFT.pdf once remade from PPTX
   notes:
@@ -232,8 +237,6 @@
 - date: 12/8
   lecturer: Prof. Lengerich
   title: <strong>Review & Open Directions</strong>
-  readings:
-    - 'Yao et al., <a href="https://arxiv.org/abs/2210.03629">ReAct: Synergizing Reasoning and Acting in Language Models</a>'
   slides: # TODO: re-upload Lecture_24_Review.pdf once remade from PPTX
   notes:
   logistics: Project final report due Fri 12/11
