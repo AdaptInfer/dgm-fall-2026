@@ -4,7 +4,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Course Introduction</strong>
-  slides: # TODO: re-upload Lecture_01_Intro.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_01_Intro.pdf"
   notes:
   readings:
   logistics:
@@ -198,7 +198,7 @@
   readings:
     - Raffel et al., <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
     - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
-    - Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>
+    - 'Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>'
   slides: # TODO: re-upload Lecture_21_Posttraining.pdf once remade from PPTX
   notes:
 
@@ -207,7 +207,7 @@
   title: <strong>Reasoning Models and RL from Verifiable Rewards</strong>
   readings:
     - OpenAI, <a href="https://openai.com/index/learning-to-reason-with-llms/">Learning to Reason with LLMs</a> (the o1 report)
-    - Guo et al., <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>
+    - 'Guo et al., <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>'
   slides: # TODO: re-upload Lecture_22_ReasoningModels.pdf once remade from PPTX
   notes:
 
@@ -215,7 +215,7 @@
   lecturer: Prof. Lengerich
   title: "<strong>Parameter-Efficient Fine-tuning: LoRA, Adapters, and Prompting</strong>"
   readings:
-    - Hu et al., <a href="https://arxiv.org/abs/2106.09685">LoRA: Low-Rank Adaptation of Large Language Models</a>
+    - 'Hu et al., <a href="https://arxiv.org/abs/2106.09685">LoRA: Low-Rank Adaptation of Large Language Models</a>'
     - Li & Liang, <a href="https://arxiv.org/abs/2101.00190">Prefix-tuning - Optimizing continuous prompts for generation</a>
   slides: # TODO: re-upload Lecture_23_PEFT.pdf once remade from PPTX
   notes:
@@ -233,7 +233,7 @@
   lecturer: Prof. Lengerich
   title: <strong>Review & Open Directions</strong>
   readings:
-    - Yao et al., <a href="https://arxiv.org/abs/2210.03629">ReAct: Synergizing Reasoning and Acting in Language Models</a>
+    - 'Yao et al., <a href="https://arxiv.org/abs/2210.03629">ReAct: Synergizing Reasoning and Acting in Language Models</a>'
   slides: # TODO: re-upload Lecture_24_Review.pdf once remade from PPTX
   notes:
   logistics: Project final report due Fri 12/11
