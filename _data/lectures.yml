@@ -1,0 +1,243 @@
+- title: "Module 1: Introduction and Foundations"
+
+- date: 9/3
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Course Introduction, Introduction to DL</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_01_Intro.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-01"
+  readings:
+  logistics:
+
+- date: 9/8
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>A Brief History of DL</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_02_HistoryofDL.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-02"
+  logistics: HW1 Out
+
+- date: 9/10
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Statistics / linear algebra / calculus review</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_03_StatsReview.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-03"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_algebra.html">Deep learning book</a>, Ch. 2
+
+- date: 9/15
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Single-layer networks</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_04_SingleLayer.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-04"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/ml.html">Deep learning book</a>, Ch. 5
+  logistics:
+
+- date: 9/17
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Parameter Optimization and Gradient Descent</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_05_gradient_descent.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-05"
+  readings:
+
+- date: 9/22
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Automatic differentiation with PyTorch</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_06_autodiff.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-06"
+  readings:
+
+- date: 9/24
+  lecturer: Prof. Lengerich
+  title: <strong>Cluster and cloud computing resources</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_07_cloud.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-07"
+  readings:
+  logistics: HW2 Out
+
+- title: "Module 2: Neural Networks"
+
+- date: 9/29
+  lecturer: Prof. Lengerich
+  title: <strong>Multinomial logistic regression</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_08_LogisticRegression.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-08"
+
+- date: 10/1
+  lecturer: Prof. Lengerich
+  title: <strong>Multi-layer perceptrons and backpropagation</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_09_Multilayer.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-09"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/mlp.html">Deep learning book</a>, Ch. 6
+
+- date: 10/6
+  lecturer: Prof. Lengerich
+  title: <strong>Regularization</strong>
+  logistics: HW3 Out
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_10_regularization.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-10"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/regularization.html">Deep learning book</a>, Ch. 7
+
+- date: 10/8
+  lecturer: Prof. Lengerich
+  title: <strong>Normalization / Initialization</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_11_normalization.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-11"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/guidelines.html">Deep learning book</a>, Ch. 11
+
+- date: 10/13
+  lecturer: Prof. Lengerich
+  title: <strong>Optimization, Learning Rates</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_12_optimization.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-12"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8
+
+- date: 10/15
+  lecturer: Prof. Lengerich
+  title: <strong>CNNs</strong>
+  logistics: Project Proposal Due
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_13_cnns.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-13"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/convnets.html">Deep learning book</a>, Ch. 9
+
+- date: 10/20
+  lecturer: Prof. Lengerich
+  title: <strong>Review</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_14_review.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-14"
+
+- date: 10/22
+  title: <strong>Midterm Exam</strong>
+
+- title: "Module 3: Intro to Generative Models"
+
+- date: 10/27
+  lecturer: Prof. Lengerich
+  title: <strong>A Linear Intro to Generative Models</strong>
+  readings:
+    - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
+    - J. Xue, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on On Discriminative vs. Generative Classifiers</a>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_15_generative.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-15"
+
+- date: 10/29
+  lecturer: Prof. Lengerich
+  title: <strong>Factor Analysis, Autoencoders, VAEs</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_16_autoencoders.pdf"
+  readings:
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_factors.html">Deep learning book</a>, Ch. 13
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/autoencoders.html">Deep learning book</a>, Ch. 14
+    - Kingma and Welling, <a href="https://arxiv.org/abs/1312.6114">Variational Autoencoders</a>
+  notes: "/dgm-fall-2025/notes/lecture-16"
+
+- date: 11/3
+  lecturer: Prof. Lengerich
+  title: <strong>Generative Adversarial Networks</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_17_gan.pdf"
+  readings:
+    - Goodfellow et al., <a href="http://www.deeplearningbook.org/">Deep learning book</a>, Ch. 20.9-10
+    - Goodfellow et al., <a href="http://papers.nips.cc/paper/5423-generative-adversarial-nets">Generative Adversarial Nets</a>
+    - Arora., <a href="http://www.offconvex.org/2017/03/15/GANs/">Generative Adversarial Networks (GANs), Some Open Questions</a>
+  notes: "/dgm-fall-2025/notes/lecture-17"
+
+- date: 11/5
+  lecturer: Prof. Lengerich
+  title: <strong>Diffusion Models</strong>
+  logistics: Project Midway Report Due
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_18_diffusion.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-18"
+
+- title: "Module 4: Large Language Models"
+
+- date: 11/10
+  lecturer: Prof. Lengerich
+  title: <strong>Sequence Learning with RNNs</strong>
+  readings:
+    - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
+    - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/rnn.html">Deep learning book</a>, Ch. 10
+  logistics: HW4 Out
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_19_rnns.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-19"
+
+- date: 11/12
+  lecturer: Prof. Lengerich
+  title: <Strong>Attention, Transformers</strong>
+  readings:
+    - Vasvani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
+    - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
+    - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
+    - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_20_attention.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-20"
+
+- date: 11/17
+  lecturer: Prof. Lengerich
+  title: <strong>GPT Architectures</strong>
+  readings:
+    - Radford et al., <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">Improving Language Understanding by Generative Pre-Training</a> (the GPT-1 paper)
+    - Radford et al., <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Language Models are Unsupervised Multitask Learners</a> (the GPT-2 paper)
+    - Brown et al., <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> (the GPT-3 paper)
+    - Raschka, <a href="https://www.youtube.com/watch?v=YSAkgEarBGE&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm">Build an LLM from Scratch 4</a> (video)
+    - Karpathy, <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Let's Build GPT from Scratch </a>(video)
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_21_gpt.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-21"
+
+- date: 11/19
+  lecturer: Prof. Lengerich
+  title: <strong>Unsupervised Training of LLMs</strong>
+  readings:
+    - Bi. et al, <a href="https://arxiv.org/abs/2401.02954">DeepSeek LLM Scaling Open-Source Language Models with Longtermism</a>
+    - Liu et al., <a href="https://arxiv.org/abs/2405.04434">DeepSeekV2 A Strong, Economical, and Efficient Mixture-of-Experts Language Model</a>
+    - Liu et al., <a href="https://arxiv.org/abs/2412.19437">DeepSeekV3 Technical Report</a>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_22_pretraining.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-22"
+
+- date: 11/24
+  lecturer: Prof. Lengerich
+  title: <strong>Supervised Fine-tuning of LLMs</strong>
+  readings:
+    - Raffel et al., <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
+    - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
+  logistics: HW5 Out
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_23_posttraining.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-23"
+
+- date: 11/26
+  lecturer: Prof. Lengerich
+  title: <strong>Prompts and In-context learning</strong>
+  readings:
+    - Li & Liang, <a href="https://arxiv.org/abs/2101.00190">Prefix-tuning - Optimizing continuous prompts for generation</a>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_24_prompts.pdf"
+  notes: "/dgm-fall-2025/notes/lecture-24"
+
+- date: 12/1
+  lecturer: Prof. Lengerich
+  title: <strong>Alignment, explainability, and open directions in LLM research</strong>
+  notes: "/dgm-fall-2025/notes/lecture-25"
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_25_alignment.pdf"
+
+- date: 12/3
+  lecturer: Prof. Lengerich
+  title: <strong>Review</strong>
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_26_review.pdf"
+
+- title: "Module 5: Student Presentations"
+
+- date: 12/8
+  title: <strong>Project Presentations</strong>
+
+- date: 12/10
+  title: <strong>Project Presentations</strong>
+
+- date: 12/17
+  title: <strong>Final Exam</strong>
