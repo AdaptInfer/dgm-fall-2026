@@ -57,7 +57,7 @@ There will be regular homework assignments to reinforce core concepts and comput
 ### Exams
 
 - **Midterm Exam:** An in-class exam will take place Thursday, October 15.
-- **Final Exam:** During the exam period, December 11-17 (exact date/time to be confirmed once the registrar publishes the block schedule).
+- **Final Exam:** Saturday, December 12, 2026, 5:05-7:05 PM.
 - **Exam policies:** AI use and electronic devices are NOT allowed. Printed notes are allowed.
 
 ---

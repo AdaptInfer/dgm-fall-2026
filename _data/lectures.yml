@@ -37,7 +37,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/ml.html">Deep learning book</a>, Ch. 5
-    - Rosenblatt, <a href="https://psycnet.apa.org/record/1959-09865-001">The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain</a>
+    - 'Rosenblatt, <a href="https://psycnet.apa.org/record/1959-09865-001">The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain</a>'
   logistics:
 
 - date: 9/17
@@ -57,7 +57,7 @@
   slides: # TODO: re-upload Lecture_06_Autodiff.pdf once remade from PPTX
   notes:
   readings:
-    - Baydin et al., <a href="https://arxiv.org/abs/1502.05767">Automatic Differentiation in Machine Learning: a Survey</a>
+    - 'Baydin et al., <a href="https://arxiv.org/abs/1502.05767">Automatic Differentiation in Machine Learning: a Survey</a>'
   logistics:
 
 - title: "Module 2: Neural Networks"
@@ -89,7 +89,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/regularization.html">Deep learning book</a>, Ch. 7
-    - Srivastava et al., <a href="https://jmlr.org/papers/v15/srivastava14a.html">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a>
+    - 'Srivastava et al., <a href="https://jmlr.org/papers/v15/srivastava14a.html">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a>'
 
 - date: 10/6
   lecturer: Prof. Lengerich
@@ -98,7 +98,7 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8.4, 8.7
-    - Ioffe and Szegedy, <a href="https://arxiv.org/abs/1502.03167">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>
+    - 'Ioffe and Szegedy, <a href="https://arxiv.org/abs/1502.03167">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>'
     - Glorot and Bengio, <a href="https://proceedings.mlr.press/v9/glorot10a.html">Understanding the difficulty of training deep feedforward neural networks</a>
 
 - date: 10/8
@@ -109,10 +109,10 @@
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8
-    - Kingma and Ba, <a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a>
+    - 'Kingma and Ba, <a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a>'
 
 - date: 10/13
-  lecturer: Prof. Lengerich
+  lecturer: Baiheng Chen
   title: <strong>Review</strong>
   slides: # TODO: re-upload Lecture_12_Review.pdf once remade from PPTX
   notes:
@@ -255,5 +255,5 @@
   notes:
   logistics: Project final report due Fri 12/11
 
-- date: 12/11
-  title: <strong>Final Exam</strong> (exam period Dec 11-17; exact date/time TBD pending registrar block schedule)
+- date: 12/12
+  title: <strong>Final Exam</strong> (5:05-7:05 PM)
