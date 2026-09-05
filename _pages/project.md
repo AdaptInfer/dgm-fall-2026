@@ -110,7 +110,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 
 ### **Final Report**
 
-**Due:** Friday, December 11, 2026, at 11:59 PM via Canvas.
+**Due:** Tuesday, December 8, 2026, at 11:59 PM via Canvas.
 
 - **Content**:
   - ICML-style paper (8 pages).

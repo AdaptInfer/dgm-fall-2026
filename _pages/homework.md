@@ -10,4 +10,4 @@ Assignments will be posted here as they are released. Unless otherwise noted, al
 - HW2, due Friday, October 2.
 - HW3, due Friday, October 23.
 - HW4, due Friday, November 13.
-- HW5, due Friday, November 27.
+- HW5, due Sunday, November 29.

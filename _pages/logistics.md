@@ -69,7 +69,7 @@ The final project will be completed in groups of up to four students. It will in
 - **Proposal (5%)**: Due Friday, October 9, 2026.
 - **Midway Report (5%)**: Due Friday, November 6, 2026.
 - **Presentation (5%)**: During the final weeks of class (Dec 1 and Dec 3).
-- **Final Report (15%)**: Due Friday, December 11, 2026.
+- **Final Report (15%)**: Due Tuesday, December 8, 2026.
 
 ---
 
