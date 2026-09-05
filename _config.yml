@@ -27,7 +27,7 @@ rss: # notes rss
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Course Notes
-blog_description: The notes written by students and edited by instructors
+blog_description: Witten by students for extra credit, with editing by instructors. For details on how to submit, see [here](https://github.com/AdaptInfer/dgm-fall-2026/tree/main/_posts#readme).
 
 # Pagination
 paginate: 10
