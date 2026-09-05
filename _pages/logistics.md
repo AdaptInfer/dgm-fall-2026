@@ -5,7 +5,7 @@ title: Logistics
 ---
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
