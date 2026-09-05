@@ -13,7 +13,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>A Brief History of Deep Learning</strong>
-  slides: # TODO: re-upload Lecture_02_HistoryofDL.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_02_HistoryofDL.pdf"
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/intro.html">Deep learning book</a>, Ch. 1
