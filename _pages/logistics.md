@@ -14,7 +14,7 @@ title: Logistics
 - **Meeting Times:** Tuesday/Thursday 9:30-10:45 AM
 - **Location:** Morgridge B2590
 - **Instructor:** Prof. Ben Lengerich, lengerich@wisc.edu, office hours Thursdays 11:00am-12:00pm, Morgridge 5530
-- **TA:** Baiheng Chen, bchen342@wisc.edu, office hours TBD
+- **TA:** Baiheng Chen, bchen342@wisc.edu, office hours Wednesdays and Fridays 2:00pm-3:00pm, via Zoom
 
 ---
 
