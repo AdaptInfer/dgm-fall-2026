@@ -23,7 +23,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Statistics, Linear Algebra, and Calculus Review</strong>
-  slides: # TODO: re-upload Lecture_03_StatsReview.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_03_StatsReview.pdf"
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_algebra.html">Deep learning book</a>, Ch. 2
