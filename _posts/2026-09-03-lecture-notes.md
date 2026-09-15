@@ -120,7 +120,7 @@ When building a machine learning system, there are three fundamental questions t
    
    In probabilistic form,
 
-  $M = \underset{M \in \mathcal{H}}{\operatorname{argmax}} \; F(D; M)$
+ $M = \underset{M \in \mathcal{H}}{\mathrm{argmax}} \; F(D; M)$
 
    where:
 
