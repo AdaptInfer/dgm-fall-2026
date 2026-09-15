@@ -33,7 +33,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Single-layer networks</strong>
-  slides: # TODO: re-upload Lecture_04_SingleLayer.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_04_SingleLayer.pdf"
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/ml.html">Deep learning book</a>, Ch. 5
