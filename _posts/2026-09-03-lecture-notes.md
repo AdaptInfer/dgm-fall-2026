@@ -104,23 +104,15 @@ When building a machine learning system, there are three fundamental questions t
    
    In probabilistic form, suppose we want to determine the probability of one variable given another:
 
-    $$
-    P(X_8 \mid X_1)
-    $$
+    $P(X_8 \mid X_1)$
 
    Using the definition of conditional probability:
 
-   $$
-   P(X_8 \mid X_1) = \frac{P(X_8, X_1)}{P(X_1)}
-   $$
+  $P(X_8 \mid X_1) = \frac{P(X_8, X_1)}{P(X_1)}$
 
    If the other variables are unobserved, we can marginalize over them:
 
-   $$
-   P(X_8 \mid X_1) =
-   \frac{\sum_{X_2,\ldots,X_7} P(X_1,\ldots,X_8)}
-   {P(X_1)}
-   $$
+  $P(X_8 \mid X_1) = \frac{\sum_{X_2,\ldots,X_7} P(X_1,\ldots,X_8)}{P(X_1)}$
 
    For Boolean variables, this requires summing over $2^6$ configurations of the six unobserved variables. Independence assumptions can simplify this calculation. Graphical models can be useful because they provide an intermediate representation between explicitly representing every possibility and assuming complete independence.
 
@@ -128,9 +120,7 @@ When building a machine learning system, there are three fundamental questions t
    
    In probabilistic form,
 
-   $$
-   M = \underset{M \in \mathcal{H}}{\operatorname{argmax}} \; F(D; M)
-   $$
+  $M = \underset{M \in \mathcal{H}}{\operatorname{argmax}} \; F(D; M)$
 
    where:
 
@@ -237,7 +227,7 @@ Usually organized into:
 #### Unstructured Data
 
 - Images
-- Natural language
+- Natural Language
 ---
 
 ## Necessary ML Notation and Jargon
