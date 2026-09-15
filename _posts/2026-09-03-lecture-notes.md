@@ -228,6 +228,7 @@ Usually organized into:
 
 - Images
 - Natural Language
+
 ---
 
 ## Necessary ML Notation and Jargon
