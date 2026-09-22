@@ -54,7 +54,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Automatic differentiation with PyTorch; Project Discussion</strong>
-  slides: # TODO: re-upload Lecture_06_Autodiff.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_06_autograd.pdf"
   notes:
   readings:
     - 'Baydin et al., <a href="https://arxiv.org/abs/1502.05767">Automatic Differentiation in Machine Learning: a Survey</a>'
