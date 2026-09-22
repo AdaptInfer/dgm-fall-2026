@@ -55,6 +55,8 @@
   title: >
     <strong>Automatic differentiation with PyTorch; Project Discussion</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_06_autograd.pdf"
+  notebook: "/dgm-fall-2026/assets/lectures/Lecture_06_autograd_walkthrough.ipynb"
+  colab: "https://colab.research.google.com/github/AdaptInfer/dgm-fall-2026/blob/main/assets/lectures/Lecture_06_autograd_walkthrough.ipynb"
   notes:
   readings:
     - 'Baydin et al., <a href="https://arxiv.org/abs/1502.05767">Automatic Differentiation in Machine Learning: a Survey</a>'

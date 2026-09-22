@@ -47,6 +47,12 @@ title: Schedule
             {% else %}
             | notes
             {% endif %}
+            {% if lecture.notebook %}
+            | <a href="{{ lecture.notebook }}" target="_blank">notebook</a>
+            {% endif %}
+            {% if lecture.colab %}
+            (<a href="{{ lecture.colab }}" target="_blank">Colab</a>)
+            {% endif %}
         ]
     </td>
     <td>
