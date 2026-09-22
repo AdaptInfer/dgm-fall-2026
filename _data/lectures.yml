@@ -5,7 +5,7 @@
   title: >
     <strong>Course Introduction</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_01_Intro.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-notes/"
   readings:
   logistics:
 
@@ -14,7 +14,7 @@
   title: >
     <strong>A Brief History of Deep Learning</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_02_HistoryofDL.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-02/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/intro.html">Deep learning book</a>, Ch. 1
   logistics:
@@ -24,7 +24,7 @@
   title: >
     <strong>Statistics, Linear Algebra, and Calculus Review</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_03_StatsReview.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-03/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_algebra.html">Deep learning book</a>, Ch. 2
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/prob.html">Deep learning book</a>, Ch. 3
@@ -45,7 +45,7 @@
   title: >
     <strong>Parameter Optimization and Gradient Descent</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_05_GradientDescent.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-05/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/numerical.html">Deep learning book</a>, Ch. 4
   logistics: HW1 due Fri 9/18
