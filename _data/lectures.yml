@@ -67,7 +67,7 @@
 - date: 9/24
   lecturer: Prof. Lengerich
   title: <strong>Multi-layer perceptrons and backpropagation</strong>
-  slides: # TODO: re-upload Lecture_07_Multilayer.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_06_backprop.pdf"
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/mlp.html">Deep learning book</a>, Ch. 6
