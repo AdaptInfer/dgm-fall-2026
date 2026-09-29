@@ -76,7 +76,7 @@
 - date: 9/29
   lecturer: Prof. Lengerich
   title: <strong>Structure and weight sharing; CNNs</strong>
-  slides: # TODO: re-upload Lecture_08_CNNs.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_08_cnns.pdf"
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/convnets.html">Deep learning book</a>, Ch. 9
