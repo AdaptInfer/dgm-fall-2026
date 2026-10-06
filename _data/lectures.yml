@@ -96,7 +96,7 @@
 - date: 10/6
   lecturer: Prof. Lengerich
   title: <strong>Normalization and Initialization</strong>
-  slides: # TODO: re-upload Lecture_10_Normalization.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_10_norm_and_init.pdf"
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8.4, 8.7
