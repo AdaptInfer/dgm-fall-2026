@@ -107,7 +107,7 @@
   lecturer: Prof. Lengerich
   title: <strong>Optimization and learning rates</strong>
   logistics: Project proposal due Fri 10/9
-  slides: # TODO: re-upload Lecture_11_Optimization.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_11_Optimization.pdf"
   notes:
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8
