@@ -48,7 +48,7 @@ Office Hours: Wednesdays/Fridays from 2:00-3:00 PM on Zoom
 ### Grading
 - Homework: 20%
 - Midterm Exam: 20%
-  - Tentatively on 10/15
+  - On 10/20
   - In-Class, Open-note, No calculator/phone
 - Final Exam: 30%
   - Scheduled 12/12
