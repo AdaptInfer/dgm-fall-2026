@@ -155,7 +155,7 @@
   readings:
     - 'Sohl-Dickstein et al., <a href="https://arxiv.org/abs/1503.03585">Deep Unsupervised Learning using Nonequilibrium Thermodynamics</a>'
     - 'Ho et al., <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Models</a>'
-  slides: # TODO: re-upload Lecture_16_Diffusion.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_15_Diffusion.pdf"
   notes:
   logistics:
 
