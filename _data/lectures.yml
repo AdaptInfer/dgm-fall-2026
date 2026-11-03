@@ -168,7 +168,7 @@
     - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/rnn.html">Deep learning book</a>, Ch. 10
     - Hochreiter and Schmidhuber, <a href="https://www.bioinf.jku.at/publications/older/2604.pdf">Long Short-Term Memory</a>
-  slides: # TODO: re-upload Lecture_17_RNNs.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_16_RNNs.pdf"
   notes:
 
 - date: 11/5
@@ -176,8 +176,8 @@
   title: <strong>Attention, Transformers</strong>
   readings:
     - Bahdanau, Cho, Bengio, <a href="https://arxiv.org/abs/1409.0473">Neural Machine Translation by Jointly Learning to Align and Translate</a>
-    - Vasvani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
-    - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
+    - Vaswani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
+    - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding.</a>
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
   slides: # TODO: re-upload Lecture_18_Attention.pdf once remade from PPTX
