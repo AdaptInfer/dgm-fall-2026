@@ -180,7 +180,7 @@
     - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding.</a>
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
-  slides: # TODO: re-upload Lecture_18_Attention.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_17_Attention_Transformers.pdf"
   notes:
   logistics: Project midway report due Fri 11/6, HW3 due Fri 11/6
 
