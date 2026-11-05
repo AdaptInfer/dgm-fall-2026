@@ -34,7 +34,7 @@
   title: >
     <strong>Single-layer networks</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_04_SingleLayer.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-04/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/ml.html">Deep learning book</a>, Ch. 5
     - 'Rosenblatt, <a href="https://psycnet.apa.org/record/1959-09865-001">The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain</a>'
@@ -57,7 +57,7 @@
   slides: "/dgm-fall-2026/assets/lectures/Lecture_06_autograd.pdf"
   notebook: "/dgm-fall-2026/assets/lectures/Lecture_06_autograd_walkthrough.ipynb"
   colab: "https://colab.research.google.com/github/AdaptInfer/dgm-fall-2026/blob/main/assets/lectures/Lecture_06_autograd_walkthrough.ipynb"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-06/"
   readings:
     - 'Baydin et al., <a href="https://arxiv.org/abs/1502.05767">Automatic Differentiation in Machine Learning: a Survey</a>'
   logistics:
@@ -68,7 +68,7 @@
   lecturer: Prof. Lengerich
   title: <strong>Multi-layer perceptrons and backpropagation</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_07_backprop.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-07/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/mlp.html">Deep learning book</a>, Ch. 6
     - Rumelhart, Hinton, Williams, <a href="https://www.nature.com/articles/323533a0">Learning representations by back-propagating errors</a>
@@ -77,7 +77,7 @@
   lecturer: Prof. Lengerich
   title: <strong>Structure and weight sharing; CNNs</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_08_cnns.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-08/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/convnets.html">Deep learning book</a>, Ch. 9
     - LeCun et al., <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">Gradient-Based Learning Applied to Document Recognition</a> (LeNet)
@@ -88,7 +88,7 @@
   title: <strong>Regularization</strong>
   logistics: HW2 due Fri 10/2
   slides: "/dgm-fall-2026/assets/lectures/Lecture_09_regularization.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-09/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/regularization.html">Deep learning book</a>, Ch. 7
     - 'Srivastava et al., <a href="https://jmlr.org/papers/v15/srivastava14a.html">Dropout: A Simple Way to Prevent Neural Networks from Overfitting</a>'
@@ -97,7 +97,7 @@
   lecturer: Prof. Lengerich
   title: <strong>Normalization and Initialization</strong>
   slides: "/dgm-fall-2026/assets/lectures/Lecture_10_norm_and_init.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-10/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8.4, 8.7
     - 'Ioffe and Szegedy, <a href="https://arxiv.org/abs/1502.03167">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>'
@@ -108,7 +108,7 @@
   title: <strong>Optimization and learning rates</strong>
   logistics: Project proposal due Fri 10/9
   slides: "/dgm-fall-2026/assets/lectures/Lecture_11_Optimization.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-11/"
   readings:
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/optimization.html">Deep learning book</a>, Ch. 8
     - 'Kingma and Ba, <a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a>'
@@ -117,7 +117,7 @@
   lecturer: Baiheng Chen
   title: <strong>Review</strong>
   slides:
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-review/"
 
 - date: 10/15
   title: <strong>No class (midterm study day)</strong>
@@ -155,7 +155,7 @@
   readings:
     - 'Sohl-Dickstein et al., <a href="https://arxiv.org/abs/1503.03585">Deep Unsupervised Learning using Nonequilibrium Thermodynamics</a>'
     - 'Ho et al., <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Models</a>'
-  slides: # TODO: re-upload Lecture_16_Diffusion.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_15_Diffusion.pdf"
   notes:
   logistics:
 
@@ -168,7 +168,7 @@
     - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/rnn.html">Deep learning book</a>, Ch. 10
     - Hochreiter and Schmidhuber, <a href="https://www.bioinf.jku.at/publications/older/2604.pdf">Long Short-Term Memory</a>
-  slides: # TODO: re-upload Lecture_17_RNNs.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_16_RNNs.pdf"
   notes:
 
 - date: 11/5
@@ -176,8 +176,8 @@
   title: <strong>Attention, Transformers</strong>
   readings:
     - Bahdanau, Cho, Bengio, <a href="https://arxiv.org/abs/1409.0473">Neural Machine Translation by Jointly Learning to Align and Translate</a>
-    - Vasvani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
-    - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
+    - Vaswani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
+    - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding.</a>
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
   slides: # TODO: re-upload Lecture_18_Attention.pdf once remade from PPTX
