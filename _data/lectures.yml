@@ -205,6 +205,7 @@
     - Liu et al., <a href="https://arxiv.org/abs/2412.19437">DeepSeekV3 Technical Report</a>
   slides: # TODO: re-upload Lecture_20_Pretraining.pdf once remade from PPTX
   notes:
+  logistics: We'll first finish GPT Architectures, picking up from slide 18 of the 11/10 lecture
 
 - date: 11/17
   lecturer: Prof. Lengerich
@@ -216,6 +217,7 @@
     - 'Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>'
   slides: # TODO: re-upload Lecture_21_Posttraining.pdf once remade from PPTX
   notes:
+  logistics: We'll start with the challenges of MLE-based training (KL, entropy, decoding), moved from 11/12
 
 - date: 11/19
   lecturer: Prof. Lengerich
