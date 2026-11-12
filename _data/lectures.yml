@@ -203,7 +203,7 @@
     - Bi. et al, <a href="https://arxiv.org/abs/2401.02954">DeepSeek LLM Scaling Open-Source Language Models with Longtermism</a>
     - Liu et al., <a href="https://arxiv.org/abs/2405.04434">DeepSeekV2 A Strong, Economical, and Efficient Mixture-of-Experts Language Model</a>
     - Liu et al., <a href="https://arxiv.org/abs/2412.19437">DeepSeekV3 Technical Report</a>
-  slides: # TODO: re-upload Lecture_20_Pretraining.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_19_Pretraining.pdf"
   notes:
   logistics: We'll first finish GPT Architectures, picking up from slide 18 of the 11/10 lecture
 
@@ -215,7 +215,7 @@
     - 'Christiano et al., <a href="https://arxiv.org/abs/1706.03741">Deep Reinforcement Learning from Human Preferences</a> (the original RLHF paper)'
     - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
     - 'Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>'
-  slides: # TODO: re-upload Lecture_21_Posttraining.pdf once remade from PPTX
+  slides: # TODO: upload Lecture_20 (aligning LLMs) PDF exported from PowerPoint
   notes:
   logistics: We'll start with the challenges of MLE-based training (KL, entropy, decoding), moved from 11/12
 
@@ -226,7 +226,7 @@
     - OpenAI, <a href="https://openai.com/index/learning-to-reason-with-llms/">Learning to Reason with LLMs</a> (the o1 report)
     - 'Guo et al., <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>'
   logistics: HW4 due Fri 11/20
-  slides: # TODO: re-upload Lecture_22_ReasoningModels.pdf once remade from PPTX
+  slides: # TODO: upload Lecture_21 (reasoning models) PDF exported from PowerPoint
   notes:
 
 - date: 11/24
@@ -236,7 +236,7 @@
     - 'Hu et al., <a href="https://arxiv.org/abs/2106.09685">LoRA: Low-Rank Adaptation of Large Language Models</a>'
     - 'Houlsby et al., <a href="https://arxiv.org/abs/1902.00751">Parameter-Efficient Transfer Learning for NLP</a>'
     - Li & Liang, <a href="https://arxiv.org/abs/2101.00190">Prefix-tuning - Optimizing continuous prompts for generation</a>
-  slides: # TODO: re-upload Lecture_23_PEFT.pdf once remade from PPTX
+  slides: # TODO: upload Lecture_22 (PEFT) PDF exported from PowerPoint
   notes:
 
 - title: "Module 5: Student Presentations & Wrap-up"
@@ -251,7 +251,7 @@
 - date: 12/8
   lecturer: Prof. Lengerich
   title: <strong>Review & Open Directions</strong>
-  slides: # TODO: re-upload Lecture_24_Review.pdf once remade from PPTX
+  slides: # TODO: upload Lecture_23 (review) PDF exported from PowerPoint
   notes:
   logistics: Project final report due Tue 12/8
 
