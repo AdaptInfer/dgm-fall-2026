@@ -215,7 +215,7 @@
     - 'Christiano et al., <a href="https://arxiv.org/abs/1706.03741">Deep Reinforcement Learning from Human Preferences</a> (the original RLHF paper)'
     - Ouyang et al., <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
     - 'Rafailov et al., <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>'
-  slides: # TODO: upload Lecture_20 (aligning LLMs) PDF exported from PowerPoint
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_20_Posttraining.pdf"
   notes:
   logistics: We'll start with the challenges of MLE-based training (KL, entropy, decoding), moved from 11/12
 
