@@ -181,7 +181,7 @@
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
   slides: "/dgm-fall-2026/assets/lectures/Lecture_17_Attention_Transformers.pdf"
-  notes:
+  notes: "/dgm-fall-2026/notes/lecture-17/"
   logistics: Project midway report due Fri 11/6, HW3 due Fri 11/6
 
 - date: 11/10
