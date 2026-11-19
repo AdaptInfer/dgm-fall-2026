@@ -226,7 +226,7 @@
     - OpenAI, <a href="https://openai.com/index/learning-to-reason-with-llms/">Learning to Reason with LLMs</a> (the o1 report)
     - 'Guo et al., <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>'
   logistics: HW4 due Fri 11/20
-  slides: # TODO: upload Lecture_21 (reasoning models) PDF exported from PowerPoint
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_21_Reasoning.pdf"
   notes:
 
 - date: 11/24
