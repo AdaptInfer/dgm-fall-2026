@@ -236,7 +236,7 @@
     - 'Hu et al., <a href="https://arxiv.org/abs/2106.09685">LoRA: Low-Rank Adaptation of Large Language Models</a>'
     - 'Houlsby et al., <a href="https://arxiv.org/abs/1902.00751">Parameter-Efficient Transfer Learning for NLP</a>'
     - Li & Liang, <a href="https://arxiv.org/abs/2101.00190">Prefix-tuning - Optimizing continuous prompts for generation</a>
-  slides: # TODO: upload Lecture_22 (PEFT) PDF exported from PowerPoint
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_22_FineTuning.pdf"
   notes:
 
 - title: "Module 5: Student Presentations & Wrap-up"
