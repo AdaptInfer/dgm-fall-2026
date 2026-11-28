@@ -10,4 +10,4 @@ Assignments will be posted here as they are released. Unless otherwise noted, al
 - HW2, due Friday, October 2. [[Notebook]({{ site.baseurl }}/assets/hw/hw2/STAT453_hw02.ipynb)] [[Open in Colab](https://colab.research.google.com/github/AdaptInfer/dgm-fall-2026/blob/main/assets/hw/hw2/STAT453_hw02.ipynb)]
 - HW3, due Friday, November 6. [[Notebook]({{ site.baseurl }}/assets/hw/hw3/STAT453_hw03.ipynb)] [[Open in Colab](https://colab.research.google.com/github/AdaptInfer/dgm-fall-2026/blob/main/assets/hw/hw3/STAT453_hw03.ipynb)]
 - HW4, due Friday, November 20. [[Notebook]({{ site.baseurl }}/assets/hw/hw4/STAT453_hw04.ipynb)] [[Open in Colab](https://colab.research.google.com/github/AdaptInfer/dgm-fall-2026/blob/main/assets/hw/hw4/STAT453_hw04.ipynb)]
-- HW5, due Friday, December 4. 
+- HW5, due Friday, December 4. [[Notebook]({{ site.baseurl }}/assets/hw/hw5/STAT453_hw05.ipynb)] [[Open in Colab](https://colab.research.google.com/github/AdaptInfer/dgm-fall-2026/blob/main/assets/hw/hw5/STAT453_hw05.ipynb)]
