@@ -58,7 +58,7 @@ There will be regular homework assignments to reinforce core concepts and comput
 
 - **Midterm Exam:** An in-class exam will take place Tuesday, October 20.
   - [Midterm Study Bank]({{ site.baseurl }}/assets/exams/STAT453_Fall2026_Midterm_StudyBank.docx) — practice questions (True/False, Multiple Choice, Short Answer) covering Lectures 1-11, in the same format as the real exam.
-- **Final Exam:** Saturday, December 12, 2026, 5:05-7:05 PM.
+- **Final Exam:** Saturday, December 12, 2026, 5:05-7:05 PM, Bardeen 140.
   - [Final Study Bank]({{ site.baseurl }}/assets/exams/STAT453_Fall2026_Final_StudyBank.docx) — cumulative practice questions (True/False, Multiple Choice, Short Answer, derivations, training curves) in the same format as the real exam. Lecture 22 material (PEFT: LoRA, adapters, prompt tuning; and RAG) is not on the final; SFT, RLHF, and DPO (Lecture 20) are.
 - **Exam policies:** AI use and electronic devices are NOT allowed. Printed notes are allowed.
 
