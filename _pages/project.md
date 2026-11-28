@@ -104,7 +104,7 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 - **Grading**:
   - 30%: Clarity and engagement of presentation.
   - 40%: Depth and quality of content.
-  - 30%: Use of visuals and adherence to time limits (3-5 minutes so we can fit all groups in the lecture time).
+  - 30%: Use of visuals and adherence to the 4-minute time limit (so we can fit all groups in the lecture time).
 
 ---
 
